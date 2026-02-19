@@ -2,7 +2,7 @@
 
 ## <사용자 매뉴얼> <a href="#user_manual" id="user_manual"></a>
 
-* [프로그램 설치 방법](README.md)
+* [프로그램 설치 방법](user_manual/quickstart/README.md)
   * [DirectCloud 드라이브 프로그램 설치 방법](user_manual/quickstart/d_setup.md)
   * [DirectCloud-SHIELD IRM을 지원하는 PC Drive를 설치하는 방법](user_manual/quickstart/directcloud-shield-irm-pc-drive.md)
   * [DirectCloud-SHIELD DLP을 지원하는 PC Drive를 설치하는 방법](user_manual/quickstart/directcloud-shield-dlp-pc-drive.md)
